@@ -77,7 +77,12 @@ console.log(number1, number2, number3); */
  Write a piece of code for finding the average of two given integers.
 */
 
-/* WRITE YOUR ANSWER HERE */
+/* let int1 = 20;
+let int2 = 10;
+
+let avarageNum = (int1 + int2) / 2;
+
+console.log("The avarage sum is:", avarageNum); */
 
 /*EX 6
  Write a piece of code for finding the longest of two given strings.
