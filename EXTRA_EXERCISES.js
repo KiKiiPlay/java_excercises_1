@@ -104,7 +104,14 @@ if (word1_length > word2_length) {
  Write a piece of code for checking if a given value is a integer or not.
 */
 
-/* WRITE YOUR ANSWER HERE */
+/* let unknownVariable = 887;
+let variableCheck = parseInt(unknownVariable);
+
+if (Number.isInteger(variableCheck) === false) {
+  console.log("It is not an integer");
+} else {
+  console.log("It is integer!!!!");
+} */
 
 /*EX 8
  Write a piece of code for calculating a certain percentage of a given number.
