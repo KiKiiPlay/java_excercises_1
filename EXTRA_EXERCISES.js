@@ -33,7 +33,14 @@ if (number1 === 8 || number2 === 8) {
  Create a variable and assign to it the concatenation of two strings.
 */
 
-/* WRITE YOUR ANSWER HERE */
+/* let dog = "Patagonian Sheepdog";
+let cat = "Chartreux";
+let dash = "-";
+
+let catDog = cat + dash + dog;
+
+console.log(catDog);
+ */
 
 /*EX 4
  Create three variables and assign a numerical value to each one of them. 
