@@ -49,7 +49,8 @@ console.log("The sum of", number1, "and", number2, "is:", sum); */
  Create a variable named x and assign to it the number 12.
 */
 
-/* WRITE YOUR ANSWER HERE */
+/* let x = 12;
+console.log("There is x:", x); */
 
 /* EXERCISE 5
  Create a variable called name and assign to it the string "John Doe".
