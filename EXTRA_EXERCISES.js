@@ -118,7 +118,14 @@ if (Number.isInteger(variableCheck) === false) {
  (Ex.: the 20% of 400 is 80)
 */
 
-/* WRITE YOUR ANSWER HERE */
+/* let number = 400;
+let wantedPercentage = 12;
+let fullPercentageOfNumber = 100;
+let x;
+
+x = (number * wantedPercentage) / fullPercentageOfNumber;
+
+console.log(wantedPercentage, "% of", number, "is", x); */
 
 /*EX 9
  Write a piece of code for checking if a given number is even or odd.
