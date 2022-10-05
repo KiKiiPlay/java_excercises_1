@@ -88,7 +88,17 @@ console.log("The avarage sum is:", avarageNum); */
  Write a piece of code for finding the longest of two given strings.
 */
 
-/* WRITE YOUR ANSWER HERE */
+/* let word1 = "status";
+let word2 = "helicopter";
+
+let word1_length = word1.length;
+let word2_length = word2.length;
+
+if (word1_length > word2_length) {
+  console.log(word1);
+} else {
+  console.log(word2);
+} */
 
 /*EX 7
  Write a piece of code for checking if a given value is a integer or not.
