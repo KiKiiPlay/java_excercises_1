@@ -90,7 +90,37 @@ if ((name1 && name2) === "john") {
  Write the code to print the literal value of x (ex.: if x is 1, it should print "one", if x is 5 it should print "five" etc.).
 */
 
-/* WRITE YOUR ANSWER HERE */
+/* let x = 9;
+if (x === 1) {
+  console.log("one");
+}
+if (x === 2) {
+  console.log("two");
+}
+if (x === 3) {
+  console.log("three");
+}
+if (x === 4) {
+  console.log("four");
+}
+if (x === 5) {
+  console.log("five");
+}
+if (x === 6) {
+  console.log("six");
+}
+if (x === 7) {
+  console.log("seven");
+}
+if (x === 8) {
+  console.log("eight");
+}
+if (x === 9) {
+  console.log("nine");
+}
+if (x === 10) {
+  console.log("ten");
+} */
 
 /* EXERCISE 9
  [Extra] Assign a value to a variable using a ternary operator (this topic has not been covered during lesson yet,
