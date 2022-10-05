@@ -56,7 +56,10 @@ console.log("There is x:", x); */
  Create a variable called name and assign to it the string "John Doe".
 */
 
-/* WRITE YOUR ANSWER HERE */
+/* // *it is immposible to set a variableName = name, because "name" is defined as a function prototype, that's why i set "hisName" as a variableName
+
+let hisName = "John Doe";
+console.log("The name is:", hisName); */
 
 /* EXERCISE 6
  Execute a subtraction between the number 12 and the variable x you declared before (which is storing the value 12).
