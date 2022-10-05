@@ -40,7 +40,10 @@ console.log("This is because, JS language is considered to be loosely typed"); *
  Write the code to execute an addition (a sum) of the numbers 12 and 20.
 */
 
-/* WRITE YOUR ANSWER HERE */
+/* let number1 = 12;
+let number2 = 20;
+let sum = number1 + number2;
+console.log("The sum of", number1, "and", number2, "is:", sum); */
 
 /* EXERCISE 4
  Create a variable named x and assign to it the number 12.
