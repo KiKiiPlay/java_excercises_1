@@ -5,7 +5,11 @@
  The choice should be made based on the value of another variable called isMale.
 */
 
-/* WRITE YOUR ANSWER HERE */
+/* let isMale = "male";
+
+let result = isMale === "male" ? male : female;
+
+console.log("The result is:", result); */
 
 /*EX 2
  Write a piece of code for checking if, given two integers, the value of one of them is 8 or if their addition or subtraction is equal to 8.
