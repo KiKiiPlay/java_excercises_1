@@ -131,4 +131,11 @@ console.log(wantedPercentage, "% of", number, "is", x); */
  Write a piece of code for checking if a given number is even or odd.
 */
 
-/* WRITE YOUR ANSWER HERE */
+/* let multiple = 244;
+let divider = 2;
+
+if (multiple % divider === 0) {
+  console.log(multiple, "is an even number");
+} else {
+  console.log(multiple, "is an odd number");
+} */
