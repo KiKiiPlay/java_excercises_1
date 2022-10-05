@@ -1,5 +1,5 @@
-let word1 = "status";
-let word2 = "helicopter";
+let word1 = "sunday";
+let word2 = "cat";
 
 let word1_length = word1.length;
 let word2_length = word2.length;

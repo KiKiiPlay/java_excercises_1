@@ -1,6 +1,6 @@
-let number1 = 123;
-let number2 = 456;
-let number3 = 789;
+let number1 = 19;
+let number2 = 40;
+let number3 = 55;
 let temp = 0;
 
 if (number2 < number3) {

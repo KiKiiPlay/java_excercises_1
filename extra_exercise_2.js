@@ -1,4 +1,4 @@
-let number1 = 4;
+let number1 = 8;
 let number2 = 4;
 
 if (number1 === 8 || number2 === 8) {

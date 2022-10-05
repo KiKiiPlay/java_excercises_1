@@ -1,5 +1,5 @@
-let number = 400;
-let wantedPercentage = 12;
+let number = 1000;
+let wantedPercentage = 20;
 let fullPercentageOfNumber = 100;
 let x;
 

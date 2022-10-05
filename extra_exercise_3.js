@@ -1,5 +1,5 @@
-let dog = "Patagonian Sheepdog";
-let cat = "Chartreux";
+let dog = "dog";
+let cat = "cat";
 let dash = "-";
 
 let catDog = cat + dash + dog;

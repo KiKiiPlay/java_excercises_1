@@ -1,4 +1,4 @@
-let multiple = 244;
+let multiple = 300;
 let divider = 2;
 
 if (multiple % divider === 0) {

@@ -1,4 +1,4 @@
-let unknownVariable = 887;
+let unknownVariable = "how do you do";
 let variableCheck = parseInt(unknownVariable);
 
 if (Number.isInteger(variableCheck) === false) {
