@@ -15,7 +15,19 @@ console.log("The result is:", result); */
  Write a piece of code for checking if, given two integers, the value of one of them is 8 or if their addition or subtraction is equal to 8.
 */
 
-/* WRITE YOUR ANSWER HERE */
+/* let number1 = 4;
+let number2 = 4;
+
+if (number1 === 8 || number2 === 8) {
+  console.log("some of these numbers is equal 8");
+} else if (number1 - number2 === 8) {
+  console.log("subtraction 'number1 - number2' gives 8");
+} else if (number2 - number1 === 8) {
+  console.log("subtraction 'number2 - number1' gives 8");
+} else if (number1 + number2 === 8) {
+  console.log("addition gives 8");
+}
+ */
 
 /*EX 3
  Create a variable and assign to it the concatenation of two strings.
