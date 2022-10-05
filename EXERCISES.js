@@ -74,7 +74,16 @@ console.log("The result is:", x - 12); */
  Finally, verify that the equality between name1 and name2 becomes true if both are lowercase (without changing the value of name2).
 */
 
-/* WRITE YOUR ANSWER HERE */
+/* let name1 = "john";
+let name2 = "John";
+
+let nameEquality = name1 === name2;
+
+console.log("The equality between two names is:", nameEquality, "\n");
+
+if ((name1 && name2) === "john") {
+  console.log("These names are equal!!!");
+} */
 
 /* EXERCISE 8
  Create a variable named x, and assign to it a numeric value less than 10.
